@@ -52,6 +52,14 @@
             
           </ul>
         </li>
+        <li class="nav-item menu">
+          <a href="{{route('news.index')}}" class="nav-link">
+            <i class="nav-icon fas fa-tachometer-alt"></i>
+            <p>
+              ຂ່າວສານ
+            </p>
+          </a>
+        </li>
       </ul>
     </nav>
     <!-- /.sidebar-menu -->
